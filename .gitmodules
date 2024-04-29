@@ -3,4 +3,5 @@
 	url = https://github.com/cedricp/ddtplugins.git
 [submodule "ecus"]
 	path = ecus
-	url = git@github.com:nickmorozov/ecus.git
+    url = git@github.com:nickmorozov/ecus.git
+    branch = smart-453
